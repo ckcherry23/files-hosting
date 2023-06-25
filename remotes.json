@@ -1,10 +1,12 @@
 [
   {
     "name": "tyrePressurePlugin",
-    "path": "tyrePressurePlugin@http://localhost:3000/remoteEntry.js"
+    "path": "tyrePressurePlugin@http://localhost:3000/remoteEntry.js",
+    "import": "tyrePressurePlugin/TyrePressurePlugin"
   },
   {
     "name": "guessGenderPlugin",
-    "path": "guessGenderPlugin@http://localhost:3001/remoteEntry.js"
+    "path": "guessGenderPlugin@http://localhost:3001/remoteEntry.js",
+    "import": "guessGenderPlugin/GuessGenderPlugin"
   }
 ]
