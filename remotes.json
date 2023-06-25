@@ -1,0 +1,10 @@
+[
+  {
+    "name": "tyrePressurePlugin",
+    "path": "tyrePressurePlugin@http://localhost:3000/remoteEntry.js"
+  },
+  {
+    "name": "guessGenderPlugin",
+    "path": "guessGenderPlugin@http://localhost:3001/remoteEntry.js"
+  }
+]
